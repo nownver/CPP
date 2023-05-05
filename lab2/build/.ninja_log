@@ -1,0 +1,7 @@
+# ninja log v5
+1	45	1674809855161506080	build.ninja	d49a7a3ce6404590
+1	9	1674809855173388000	input.txt	3bab0f2c569601cf
+1	9	1674809855173388000	/Users/yokurawee/cpp_work/lab2/build/input.txt	3bab0f2c569601cf
+1	285	1674809855447772779	CMakeFiles/unstylize.dir/style_functions.cpp.o	d2026d75f1b8ce08
+1	363	1674809855524899183	CMakeFiles/unstylize.dir/unstylize.cpp.o	6304864d3c5b7328
+363	407	1674809855571644767	unstylize	14ed0fe41e88b06e

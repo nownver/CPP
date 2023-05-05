@@ -1,0 +1,5 @@
+/Users/yokurawee/cpp_work/lab3/01/build/CMakeFiles/shifting.dir
+/Users/yokurawee/cpp_work/lab3/01/build/CMakeFiles/printing.dir
+/Users/yokurawee/cpp_work/lab3/01/build/CMakeFiles/drawing.dir
+/Users/yokurawee/cpp_work/lab3/01/build/CMakeFiles/edit_cache.dir
+/Users/yokurawee/cpp_work/lab3/01/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/Users/yokurawee/cpp_work/lab2/build/CMakeFiles/unstylize.dir
+/Users/yokurawee/cpp_work/lab2/build/CMakeFiles/data-input.txt.dir
+/Users/yokurawee/cpp_work/lab2/build/CMakeFiles/edit_cache.dir
+/Users/yokurawee/cpp_work/lab2/build/CMakeFiles/rebuild_cache.dir
