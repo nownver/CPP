@@ -1,0 +1,8 @@
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/CMakeFiles/args.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/CMakeFiles/calc.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/CMakeFiles/calc_expr.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/CMakeFiles/edit_cache.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/CMakeFiles/rebuild_cache.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/nse/CMakeFiles/nse_html.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/nse/CMakeFiles/edit_cache.dir
+/Users/yokurawee/cpp_work/hw10/01/simple_calculator/nse/CMakeFiles/rebuild_cache.dir

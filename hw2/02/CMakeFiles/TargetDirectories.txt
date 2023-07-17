@@ -1,0 +1,3 @@
+/Users/yokurawee/cpp_work/hw2/02/CMakeFiles/score.dir
+/Users/yokurawee/cpp_work/hw2/02/CMakeFiles/edit_cache.dir
+/Users/yokurawee/cpp_work/hw2/02/CMakeFiles/rebuild_cache.dir

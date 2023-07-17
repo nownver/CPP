@@ -1,0 +1,10 @@
+^C:\USERS\THANI\ONEDRIVE\DOCUMENTS\UNIVERSITY\Y1S2\OOP\WEEK9\3_2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/thani/OneDrive/Documents/university/y1s2/oop/week9/3_2 -BC:/Users/thani/OneDrive/Documents/university/y1s2/oop/week9/3_2/build --check-stamp-file C:/Users/thani/OneDrive/Documents/university/y1s2/oop/week9/3_2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libnse_html.a CMakeFiles/nse_html.dir/html.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libnse_html.a
