@@ -1,3 +1,0 @@
-/Users/yokurawee/cpp_work/miniproject/CMakeFiles/chart.dir
-/Users/yokurawee/cpp_work/miniproject/CMakeFiles/edit_cache.dir
-/Users/yokurawee/cpp_work/miniproject/CMakeFiles/rebuild_cache.dir
